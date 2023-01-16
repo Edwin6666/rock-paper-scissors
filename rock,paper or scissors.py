@@ -25,7 +25,7 @@ def user_won(player,opponent):
     else:  return False
 
 
-
+print(play_game())
 
     
 
